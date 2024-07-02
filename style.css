@@ -11,16 +11,16 @@ body {
 
 main {
     max-width: 800px;
-    padding: 5px;
+    padding: 2px;
 }
 
 section {
-    margin: 5px 0;
+    margin: 2px 0;
 }
 
 a {
     display: block;
-    margin: 5px 0;
+    margin: 2px 0;
     color: #007bff;
     text-decoration: none;
 }
