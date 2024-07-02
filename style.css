@@ -15,12 +15,12 @@ main {
 }
 
 section {
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 a {
     display: block;
-    margin: 10px 0;
+    margin: 5px 0;
     color: #007bff;
     text-decoration: none;
 }
